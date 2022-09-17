@@ -14,3 +14,4 @@
 </div>
 
 <script src="scripts/WaveSurferInit.js"></script>
+<!-- replace my url http://localhost/mustadmin/uploads/files/auivqz2gxwsl34t.mp3 with yours -->
