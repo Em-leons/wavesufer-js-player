@@ -1,5 +1,6 @@
 /*!
  * wavesurfer.js 6.2.0 (2022-05-16)
+ 
  * https://wavesurfer-js.org
  * @license BSD-3-Clause
  */
