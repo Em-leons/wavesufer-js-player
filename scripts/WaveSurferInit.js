@@ -35,6 +35,7 @@ function wavesurferInit(wavesurfer) {
 
 
     $(document).ready(function($){
+        
         $('#currentTime').appendTo('wave wave');
     });
 
